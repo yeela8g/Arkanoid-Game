@@ -28,10 +28,8 @@ This project embodies various object-oriented programming principles, ensuring r
 In addition to object-oriented principles, this project incorporates design patterns for enhanced structure and flexibility:
 - Factory Pattern: The factory pattern dynamically creates different game levels based on user input, allowing for customizable gameplay experiences.
 - Listener Pattern: The listener pattern is utilized to notify objects of events such as block hits and ball removals, enabling dynamic responses and interactions within the game.
-
-![Arkanoid Gameplay](https://giphy.com/gifs/Bs428XZGLM9sqsG12v)
-
-
+  
+![Arkanoid Gameplay](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3YwbjlpdThpZjNldGNlY3c3MG9tbmhubTVlcDc3MTV2ZGluY3k5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bs428XZGLM9sqsG12v/giphy.gif)
 
 
 The Arkanoid game project offers a compelling implementation of object-oriented programming principles and design patterns, delivering an engaging gaming experience. With its intuitive controls, customizable level sequencing, and challenging victory conditions, Arkanoid promises endless entertainment for players of all skill levels. Get ready to break some blocks and conquer each level in this thrilling arcade adventure!

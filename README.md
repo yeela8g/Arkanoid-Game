@@ -21,7 +21,7 @@ Using the Arkanoid game is straightforward:
 ![src](https://github.com/yeela8g/Arkanoid-Game/assets/118124478/2b3e91c4-83ea-4f6a-a507-5b8f1ea9fa8b)
 
 ## Implementation
-This project embodies various object-oriented programming principles, ensuring robustness and maintainability:
+This project embodies various object-oriented programming principles and patterns, ensuring robustness and maintainability:
 - Encapsulation: Each class encapsulates its behavior and data, promoting modularity and reusability.
 - Polymorphism: Flexible behavior of objects is achieved through polymorphism, enabling them to handle collisions and perform drawing operations dynamically.
  Implemented

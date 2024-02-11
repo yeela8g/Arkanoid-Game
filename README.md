@@ -29,7 +29,7 @@ In addition to object-oriented principles, this project incorporates design patt
 - Factory Pattern: The factory pattern dynamically creates different game levels based on user input, allowing for customizable gameplay experiences.
 - Listener Pattern: The listener pattern is utilized to notify objects of events such as block hits and ball removals, enabling dynamic responses and interactions within the game.
 
-![Arkanoid Gameplay]([https://example.com/arkanoid.gif](https://giphy.com/embed/Bs428XZGLM9sqsG12v))
+![Arkanoid Gameplay](https://giphy.com/gifs/Bs428XZGLM9sqsG12v)
 
 
 
